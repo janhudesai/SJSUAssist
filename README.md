@@ -15,7 +15,7 @@ Varun Shah
 **Current Problem**: Students often need help in certain subjects in their class, certain topics, particular
 skills they wish to learn or to talk about some of other issues they experience in general. Everyone as a
 student possesses some skills, knowledge which other people may lack. The students lacking this skill set
-can get help from the students having adequate skill set in that area. There isn’t a system which brings
+can get help from the students having adequate skill set in that area. There isnâ€™t a system which brings
 together these set of people, one who needs assistance and set of people who are capable of providing
 such help.
 
@@ -27,6 +27,11 @@ Every student will be able to post rating about each other so that user can sele
 case of his/her unavailability he/she can refer to another set of people with good rating..
 Project Methodology: We will use MERN Stack to build the above system.
 
+## Screenshots
+
+Home Page
+
+![Alt text](/Assistant.PNG?raw=true "Assistant")
 
 **Website Architecture**:
 
